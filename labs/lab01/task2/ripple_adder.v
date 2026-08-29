@@ -57,6 +57,4 @@ module ripple_adder(
 
 endmodule
 
- 
- zcsxvdfgh
 
